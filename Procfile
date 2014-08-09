@@ -1,1 +1,1 @@
-gunicorn augusteight.wsgi
+web: gunicorn augusteight.wsgi run:app
